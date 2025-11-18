@@ -7,7 +7,8 @@
             IExercice exercice;
                         
             //exercice = new ShortestLengthFirst();
-            exercice = new AnagramChecker();
+            //exercice = new AnagramChecker();
+            exercice = new PrefixFinder();
 
             exercice.Run();
         }
